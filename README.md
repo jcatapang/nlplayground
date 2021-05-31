@@ -1,5 +1,7 @@
 # NLPlayground
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)<br>
+[![DOI](https://zenodo.org/badge/370722014.svg)](https://zenodo.org/badge/latestdoi/370722014)
+
 NLPinas' abstracted library for interfacing on its Huggingface models and other modules
 
 ### Importing the modules
@@ -77,3 +79,7 @@ summarizer.predict(article)
 
 ## NLPinas
 You can join NLPinas on [Facebook](https://www.facebook.com/groups/NLPinas) or visit our [website](https://nlpinas.org.ph/).
+
+## Citing our work
+You can cite our work using: [![DOI](https://zenodo.org/badge/370722014.svg)](https://zenodo.org/badge/latestdoi/370722014).
+
